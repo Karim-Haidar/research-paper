@@ -1,6 +1,8 @@
 #jekyll configuration
 theme: minima 
-
-title: [Artificial Intelligence in Medicine]
+title: Artificial Intelligence in Medicine
+author:
+  name: Rodrigo Azevedo
+  email: "rodrigobivarazevedo@gmail.com"
 
 
