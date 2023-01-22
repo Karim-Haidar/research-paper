@@ -14,9 +14,9 @@
 .page-header {
     //text-align: center;
     //background-image: url("https://medibot.com.au/images/main_img.jpg");
-    background: linear-gradient(top, #022c52, #043256), url("/research-paper/assets/page_header2.jpg");
+    background: url("/research-paper/assets/page_header2.jpg"), linear-gradient(top, #022c52, #043256);
     //background-blend-mode: multiply;
-    //background-blend-mode: normal;
+    background-blend-mode: multiply;
   //background-image: linear-gradient(to bottom right, #FF0000, #FFFF00);
     background-position: center;
     background-repeat: no-repeat;
