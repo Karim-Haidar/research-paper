@@ -5,6 +5,6 @@ plugins:
 
 title: [Artificial Intelligence in Medicine]
 
-github:
-  is_project_page: false
+#github:
+  #is_project_page: false
 
